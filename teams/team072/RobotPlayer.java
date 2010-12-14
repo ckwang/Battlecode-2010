@@ -12,7 +12,7 @@ import team072.baseplayer.TurretPlayer;
 import team072.baseplayer.WoutPlayer;
 
 /**
- * @author: Ying
+ * @author: Boon Teik Ooi, Chun-Kai Wang, Hao-Yu Wu, Yu-Chi Kuo
  */
 public class RobotPlayer implements Runnable {
 
