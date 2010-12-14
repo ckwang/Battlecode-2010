@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map height="40" width="49">
+	<game seed="3845634" rounds="1" points="20000"/>
+	<symbols>
+		<symbol terrain="LAND" type="TERRAIN" character=" "/>
+		<symbol terrain="VOID" type="TERRAIN" character="#"/>
+		<symbol team="A" type="ARCHON" character="A"/>
+		<symbol team="B" type="ARCHON" character="a"/>
+		<symbol team="NEUTRAL" type="DEPOSIT" character="*"/>
+	</symbols>
+	<data>
+<![CDATA[
+		              #                                  
+		   *          #                                  
+		  A           #                                  
+		              #              #         #         
+		                                                 
+		                                                 
+		         #                                       
+		         #         #         #             *     
+		         #         #         #         #         
+		      ####       ###    *  ####       ###    #   
+		                             #         #         
+		                                                 
+		                                                 
+		                                                 
+		####                                             
+		                                                 
+		                                                 
+		*        #         #                             
+		         #         #         #         #         
+		         #       ####        #        ####   #   
+		   #   ####        #        ####       #         
+		         #         #         #         #         
+		                             #         #        *
+		                                                 
+		                                                 
+		                                             ####
+		                                                 
+		                                                 
+		                                                 
+		         #         #                             
+		   #    ###       ####  *    ###       ####      
+		         #         #         #         #         
+		     *             #         #         #         
+		                                       #         
+		                                                 
+		                                                 
+		         #         #              #              
+		                                  #           a  
+		                                  #          *   
+		                                  #              
+]]>
+	</data>
+	<height>
+<![CDATA[
+		BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+		BBBBBBBBBBBBCCCCCCCCBAAAAAAACCCAAADAAACCCCAAAAAAB
+		BBBBBBBBBBBBBCDDDDDCBAAAAAAACECACDECBACEECAAAAAAB
+		BBBAAAAAAAAABCCCDDDCBAAAAAAACDCABCDECBCEECAAAAAAB
+		BBBABBBBBBBABBBCDCCCBAAAAAAACCCACBCDCACCCCAAAAAAB
+		BBBABCCCCCBAAABCCCBBBAAAAAAAAAAABCBCBAAAAAAAAAAAB
+		BBBABCDDDDCBBABBBBBAAAAAAAAABBBAAAABAABBBBAAAAAAB
+		BBBABCDEEEDCBAAAAAABBBBBABBBCCCBBBABBBCCCCBABBBBB
+		BBBABCDEEEEDCBBBBABCCCCBABCCDDDCCBABCCDDDCBABCDCB
+		BBBABCDEEEEDCCCBABCDEDCBABCCDEEDCBABCDEEDCBABCDCB
+		BBBABBCDEEDCBBBBABCDDCBBABBBCDDCBBABBCDEDCBABBBBB
+		BBBAAABCDDCBAAAAAABCCBAAAAAABCCBAABAABCDCBAAABAAB
+		BCBBBABBCCBAAABCBABCBAAABCBABCBAABCBAABCCBABCCBAB
+		BCCCBAAABCBAABCDCABBBAABCDCABBBABDEDBABBBBBCDECAB
+		BCDCBBBABCBABCDECBAAAABCDECBAAABCEEECBAAAAABCDEDB
+		BCDCCCBABBBACDEECAABAACDEECABBBABDEDBABBBBACBCDAB
+		BCDDDCBABAAABCCCCABBBABCCCCABCBAABCBAABCCBABCBCAB
+		BCDDCCBAABBAAABAAACCCAAAAAAABCCCAABAABCDCBAAAAAAB
+		BCDDCBBABCCBBBAABCCCCCBBABBCCDDCBBABBCDEDCBACCCCB
+		BCCCCBABCDDCCBABBCCEECDBABDCEEDCCBABCCDEDCBACDECB
+		BBBBBBABCEDCBBAABCCEECDBABDCEECBBBABBBCDDCBACCCCB
+		BAAAAAABCDCBAAAAAACCCCDBABDCCCCAAABAAABCCBAAAAAAB
+		BACCCCABCCBAAABAAABDDDBAAABDDDBACCCCBABCCBACCCCAB
+		BACBCBABCCBAABCBAABCBACCCCBABBBACCCCBAAABABCDDDCB
+		BADCBCABBBBABDEDBABBBACEEDCAABAACEEDCABBBABCCCDCB
+		BDEDCBAAAAABCEEECBAAABCEDCBAAAABCEDCBABCBABBBCDCB
+		BACEDCBBBBBABDEDBABBBACDCBAABBBACDCBAABCBAAABCCCB
+		BABCCBABCCBAABCBAABCBABCBAAABCBABCBAAABCCBBABBBCB
+		BAABAAABCDCBAABAABCCBAAAAAABCCBAAAAAABCDDCBAAABBB
+		BBBBBABCDEDCBBABBCDDCBBBABBCDDCBABBBBCDEEDCBBABBB
+		BCDCBABCDEEDCBABCDEEDCCBABCDEDCBABCCCDEEEEDCBABBB
+		BCDCBABCDDDCCBABCCDDDCCBABCCCCBABBBBCDEEEEDCBABBB
+		BBBBBABCCCCBBBABBBCCCBBBABBBBBAAAAAABCDEEEDCBABBB
+		BAAAAAABBBBAABAAAABBBAAAAAAAAABBBBBABBCDDDDCBABBB
+		BAAAAAAAAAAABCBCBAAAAAAAAAAABBBCCCBAAABCCCCCBABBB
+		BAAAAAACCCCACDCBCACCCAAAAAAABCCCDCBBBABBBBBBBABBB
+		BAAAAAACEECBCEDCBACDCAAAAAAABCDDDCCCBAAAAAAAAABBB
+		BAAAAAAAEECABCEDCACECAAAAAAABCDDDDDCBBBBBBBBBBBBB
+		BAAAAAACCCCAAADAAACCCAAAAAAABCCCCCCCCBBBBBBBBBBBB
+		BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+]]>
+	</height>
+</map>

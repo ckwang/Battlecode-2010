@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/BattleCode2010_072/!svn/ver/435/BattleCode%202010/common-source
+END
+ActionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/BattleCode2010_072/!svn/ver/54/BattleCode%202010/common-source/ActionType.java
+END
+Clock.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/BattleCode2010_072/!svn/ver/54/BattleCode%202010/common-source/Clock.java
+END
+Robot.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/BattleCode2010_072/!svn/ver/54/BattleCode%202010/common-source/Robot.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/BattleCode2010_072/!svn/ver/72/BattleCode%202010/common-source/Message.java
+END
+GameActionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/BattleCode2010_072/!svn/ver/72/BattleCode%202010/common-source/GameActionException.java
+END
+RobotController.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/BattleCode2010_072/!svn/ver/435/BattleCode%202010/common-source/RobotController.java
+END
+RobotType.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/BattleCode2010_072/!svn/ver/435/BattleCode%202010/common-source/RobotType.java
+END
+TerrainTile.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/BattleCode2010_072/!svn/ver/435/BattleCode%202010/common-source/TerrainTile.java
+END
+GameActionExceptionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/BattleCode2010_072/!svn/ver/72/BattleCode%202010/common-source/GameActionExceptionType.java
+END
+Direction.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/BattleCode2010_072/!svn/ver/435/BattleCode%202010/common-source/Direction.java
+END
+GameConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/BattleCode2010_072/!svn/ver/435/BattleCode%202010/common-source/GameConstants.java
+END
+Team.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/BattleCode2010_072/!svn/ver/54/BattleCode%202010/common-source/Team.java
+END
+AuraType.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/BattleCode2010_072/!svn/ver/54/BattleCode%202010/common-source/AuraType.java
+END
+RobotLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/BattleCode2010_072/!svn/ver/72/BattleCode%202010/common-source/RobotLevel.java
+END
+RobotInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/BattleCode2010_072/!svn/ver/100/BattleCode%202010/common-source/RobotInfo.java
+END
+GameObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/BattleCode2010_072/!svn/ver/54/BattleCode%202010/common-source/GameObject.java
+END
+MapLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/BattleCode2010_072/!svn/ver/435/BattleCode%202010/common-source/MapLocation.java
+END

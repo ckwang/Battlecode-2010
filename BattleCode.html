@@ -1,0 +1,98 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="clean.css">
+<title> BattleCode </title>
+</head>
+ 
+<body>
+<h3> Class </h3>
+<ul>
+	<li> <span> BasePlayer </span> has <span> State </span> and <span> Stategy </span> implements <span class="interface"> Sensor </span>
+	<ul>
+		<li> private RobotController myRC
+		<li> private RobotType myType
+		<li> private MapLocation myLocation
+		<li> private RobotState myRobotState
+		<li> private void updateRobotState() <br />
+		//Update myRobotState every 10 rounds
+		<li> public void run() <br />
+		//Do stuff
+	</ul>
+	<ul>
+		<li> <span> MobileRobotPlayer </span>
+		<ul>
+			<li> private int myGroup <br />
+			//Archons split up into three groups of twos based on initial position, spawned robots are in the same group as mother archon
+		</ul>
+		<ul>
+			<li> <span> ArchonPlayer </span>
+			<ul>
+				<li> private TeamState myTeamState
+				<li> private GroupState myGroupState
+				<li> private void updateGroupState() <br />
+				//Update myGroupState every 50 rounds
+				<li> private void sendGroupState() <br />
+				//Send messenger to tell other groups (archons) about change in myGroupState
+				<li> private void updateTeamState() <br />
+				//Decide myTeamState after a change in any of the GroupStates
+			</ul>
+			<li> <span> WoutPlayer </span>
+			<li> <span> TurretPlayer </span>
+			<li> <span> SoldierPlayer </span>
+			<li> <span> ChainerPlayer </span>
+		</ul>
+		
+		<li> <span> BuildingPlayer </span>
+		<ul>
+			<li> <span> TeleporterPlayer </span>
+			<li> <span> CommunicationTowerPlayer </span>
+			<li> <span> AuraBuildingPlayer </span>
+		</ul>
+	</ul>
+	
+	<li> <span> State </span> <br />
+	<ul>
+		
+	</ul>
+	<ul>
+		<li> <span> TeamState </span> <br />
+		//Function of GroupStates decided via communation between groups
+		<li> <span> GroupState </span> <br />
+		//Accounted by an archon of a group
+		<li> <span> RobotState </span> <br />
+		//A FUZZY description of a robot's instance variables
+	</ul>
+		
+	<li> <span> Strategy </span>
+	//Specifies round-dependent strategies, such as "Wout (fastest) finds out which courner of map is lower in height in the first 500 rounds"
+	<ul>
+
+	</ul>
+	<ul>
+		<li> <span> TeamStrategy </span> {EXTERMINATE,BUILDAREA} <br />
+		//Specifies what GroupStrategy each group should undertake based on TeamState
+		<ul>
+
+		</ul>
+		<li> <span> GroupStrategy </span> {SPAWNING,OFFENSIVE,BUILDING} <br />
+		//Specifies what RobotStrategy each robot should undertake based on GroupState
+		<ul>
+		
+		</ul>
+		<li> <span> RobotStrategy </span> <br />
+		//Specifies threshold values for action decision
+		<ul>
+		
+		</ul>
+	</ul>
+</ul>
+
+<h3> Interface </h3>
+<ul>
+	<li> <span class="interface"> Sensor </span> </li>
+	<li> <span class="interface"> Mover </span> </li>
+	<li> <span class="interface"> Attacker </span> </li>
+</ul>
+
+</body>
+</html>

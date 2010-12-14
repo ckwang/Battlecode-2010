@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/BattleCode2010_072/!svn/ver/52/BattleCode%202010/teams/teleportingplayer/navigation
+END
+BugNavigation.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/BattleCode2010_072/!svn/ver/52/BattleCode%202010/teams/teleportingplayer/navigation/BugNavigation.class
+END
+QueuedAction.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/BattleCode2010_072/!svn/ver/52/BattleCode%202010/teams/teleportingplayer/navigation/QueuedAction.class
+END
+QueuedActionMoveForward.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/BattleCode2010_072/!svn/ver/52/BattleCode%202010/teams/teleportingplayer/navigation/QueuedActionMoveForward.class
+END
+QueuedActionMoveBackward.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/BattleCode2010_072/!svn/ver/52/BattleCode%202010/teams/teleportingplayer/navigation/QueuedActionMoveBackward.class
+END
+Navigation.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/BattleCode2010_072/!svn/ver/52/BattleCode%202010/teams/teleportingplayer/navigation/Navigation.class
+END

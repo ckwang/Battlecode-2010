@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/BattleCode2010_072/!svn/ver/52/BattleCode%202010/ant/bin
+END
+lcp.bat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/BattleCode2010_072/!svn/ver/52/BattleCode%202010/ant/bin/lcp.bat
+END
+envset.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/BattleCode2010_072/!svn/ver/52/BattleCode%202010/ant/bin/envset.cmd
+END
+antenv.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/BattleCode2010_072/!svn/ver/52/BattleCode%202010/ant/bin/antenv.cmd
+END
+ant.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/BattleCode2010_072/!svn/ver/52/BattleCode%202010/ant/bin/ant.cmd
+END
+antRun
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/BattleCode2010_072/!svn/ver/52/BattleCode%202010/ant/bin/antRun
+END
+antRun.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/BattleCode2010_072/!svn/ver/52/BattleCode%202010/ant/bin/antRun.pl
+END
+ant
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/BattleCode2010_072/!svn/ver/52/BattleCode%202010/ant/bin/ant
+END
+runrc.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/BattleCode2010_072/!svn/ver/52/BattleCode%202010/ant/bin/runrc.cmd
+END
+complete-ant-cmd.pl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/BattleCode2010_072/!svn/ver/52/BattleCode%202010/ant/bin/complete-ant-cmd.pl
+END
+antRun.bat
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/BattleCode2010_072/!svn/ver/52/BattleCode%202010/ant/bin/antRun.bat
+END
+runant.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/BattleCode2010_072/!svn/ver/52/BattleCode%202010/ant/bin/runant.py
+END
+runant.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/BattleCode2010_072/!svn/ver/52/BattleCode%202010/ant/bin/runant.pl
+END
+ant.bat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/BattleCode2010_072/!svn/ver/52/BattleCode%202010/ant/bin/ant.bat
+END

@@ -1,0 +1,15 @@
+ul
+{
+list-style-type:none;
+margin:10pt;
+}
+span
+{
+font-weight:bold;
+}
+span.interface
+{
+font-style:italic;
+font-weight:normal;
+text-decoration:underline;
+}
